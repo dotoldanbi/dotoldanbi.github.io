@@ -1,5 +1,5 @@
 # Welcome to Jekyll!
-#
+# bundle exec jekyll serve
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
 # yourself editing this file very often, consider using Jekyll's data files
@@ -18,12 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Dotol-Danbi
-email: yourbest23@gmail.com
+title: Sonatinen
+email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Keep going & Repeat.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dotoldanbi.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
@@ -52,3 +50,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+# category_list: [misc]
