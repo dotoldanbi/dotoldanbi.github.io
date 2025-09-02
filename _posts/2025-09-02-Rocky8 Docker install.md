@@ -1,9 +1,9 @@
-![[../assets/20250902153359.png]]
+![yum-utils](../assets/20250902153359.png)
 ```
 [root@localhost kana]# dnf config-manager --add-repo https://download.docker.com/linux/rhel/docker-ce.repo
 Adding repo from: https://download.docker.com/linux/rhel/docker-ce.repo
 ```
-![[../assets/20250902154541.png]]
+![docker install](../assets/20250902154541.png)
 ```
 [root@localhost kana]# systemctl start docker
 [root@localhost kana]# systemctl enable docker
